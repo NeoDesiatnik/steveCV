@@ -22,7 +22,7 @@ nav > ul {
 }
 
 body {
-    background-color: rgb(72, 221, 221);
+    background-color: rgb(0, 0, 0);
 }
 
 .hero {
@@ -37,10 +37,10 @@ body {
 .hero > h1 {
     place-self: center;
     font-size: 4rem;
-    color: rgb(135, 201, 216);
+    color: rgb(95, 95, 95);
     outline: auto;
     outline-style: groove;
-    outline-color: rgb(60, 120, 134);
+    outline-color: rgb(0, 0, 0);
     outline-width: 0.2ch;   
     padding: 1rem; 
 }
@@ -52,8 +52,8 @@ footer {
 
 :root {
     --color-light: #f0f0f0;
-    --color-dark: #27738d  ;
-    --color-primary: white;
+    --color-dark: #334044  ;
+    --color-primary: rgb(157, 157, 157);
     --color-secondary:#4a0080;
 }
 .btn {
